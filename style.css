@@ -5,3 +5,17 @@
 .divs-facilidade{
     width: 325;
 }
+
+.color{
+    color: #DAFF01;
+}
+
+.lilas,
+.lilas:hover{
+    background-color: #9353FF;
+    box-shadow: none;
+}
+
+.altura-img{
+    height: 100%;
+}
